@@ -10,3 +10,9 @@ old = False #boolean is true or false
 print(type(name)) #tells the data type
  
 
+#input
+
+a=int(input("enter 1 no"))
+b=int(input())
+
+print(a+b)
