@@ -1,2 +1,9 @@
+for (col=1;col<=row*2-2;col=col+1)
+        // {
+        //     cout<<" ";
+        // }
 
-        cout<<col
+
+        // for(col=1;col<=row;col=col+1)
+        // { 
+        //     cout<<"*";
